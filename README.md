@@ -5,7 +5,7 @@
 
 
 
-![image](https://user-images.githubusercontent.com/113880369/202218119-bdd9e148-a7fc-4599-a315-b0027067d05b.png)
+![image](https://user-images.githubusercontent.com/113880369/202218119-bdd9e148-a7fc-4599-a315-b0027067d05b.png |qwidth-=100)
 
 ### **TEAM MEMBERS**:
 1.SALIHA BATHOOL.A.
@@ -13,17 +13,20 @@
 3.VARSHINI.S.
 4.DHARSHINI.M.R.
 
-#### **TEAM ID:PNT2022TMID04039**
+#### **TEAM ID:**
+PNT2022TMID04039
 
 
 
 
 
-##### **PROBLEM STATEMENT**:To develop a novel method for handwritten digit recognition system
+##### **PROBLEM STATEMENT**: 
+           To develop a novel method for handwritten digit recognition system
 
 
 
-###### **DOMAIN**:AI&ML
+###### **DOMAIN**:
+                 AI&ML
 
 
 
@@ -35,12 +38,14 @@
 
 
 
-OBJECTIVE:Handwriting character recognition refers to the computer's ability to detect and interpret intelligible Handwriting input from Handwriting sources such as touch screens, photographs, paper documents, and other sources. Handwriting characters remain complex since different individuals have different handwriting styles
+
+####### **OBJECTIVE** :
+Handwriting character recognition refers to the computer's ability to detect and interpret intelligible Handwriting input from Handwriting sources such as touch screens, photographs, paper documents, and other sources. Handwriting characters remain complex since different individuals have different handwriting styles
 
 
 
 
-#TECHNICAL ARCHITECTURE:
+######## **TECHNICAL ARCHITECTURE**:
 
 
 
