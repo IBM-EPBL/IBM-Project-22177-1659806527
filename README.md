@@ -5,7 +5,7 @@
 
 
 
-![image](https://user-images.githubusercontent.com/113880369/202218119-bdd9e148-a7fc-4599-a315-b0027067d05b.png |qwidth-=100)
+![image](https://user-images.githubusercontent.com/113880369/202218119-bdd9e148-a7fc-4599-a315-b0027067d05b.png)
 
 ### **TEAM MEMBERS**:
 1.SALIHA BATHOOL.A.
