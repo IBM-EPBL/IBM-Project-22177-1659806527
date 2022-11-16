@@ -5,7 +5,7 @@
 
 
 
-![image](https://user-images.githubusercontent.com/113880369/202218119-bdd9e148-a7fc-4599-a315-b0027067d05b.png = 250x250)
+![](https://user-images.githubusercontent.com/113880369/202218119-bdd9e148-a7fc-4599-a315-b0027067d05b.png =250x250)
 
 ### **TEAM MEMBERS**:
 1.SALIHA BATHOOL.A.
@@ -59,6 +59,6 @@ Handwriting recognition is one of the compelling research works going on because
 
 
 
-![image](https://user-images.githubusercontent.com/113880369/202218238-5a01efed-fcca-45e4-86dd-7c06f7c7ca98.png =250x250)
+![](https://user-images.githubusercontent.com/113880369/202218238-5a01efed-fcca-45e4-86dd-7c06f7c7ca98.png =250x250)
 
 
