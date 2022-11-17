@@ -1,11 +1,7 @@
 # IBM-Project-22177-1659806527
+##**A NOVEL METHOD FOR HANDWRITTEN DIGIT RECOGNITION SYSTEM**
 
-## **A Novel Method for Handwritten Digit Recognition System**
-
-
-
-
-![image](https://user-images.githubusercontent.com/113880369/202218119-bdd9e148-a7fc-4599-a315-b0027067d05b.png)
+<img height = "75" weight="100" src="https://user-images.githubusercontent.com/113880369/202218119-bdd9e148-a7fc-4599-a315-b0027067d05b.png">
 
 ### **TEAM MEMBERS**:
 1.SALIHA BATHOOL.A.
@@ -13,12 +9,7 @@
 3.VARSHINI.S.
 4.DHARSHINI.M.R.
 
-#### **TEAM ID:**
-PNT2022TMID04039
-
-
-
-
+<h3><B>TEAM ID</B> :PNT2022TMID04039 </h3>
 
 ##### **PROBLEM STATEMENT**: 
            To develop a novel method for handwritten digit recognition system
