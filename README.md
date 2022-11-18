@@ -6,13 +6,13 @@
 
 <img height=100 width=100 src="https://media3.giphy.com/media/Fhl5WREPfoVby/200.webp?cid=ecf05e4719514a4mcpawxc7vmsfyqythmjuyplrzw3l4qlpt&rid=200.webp&ct=s">
 <br /> 
-<img width="25" height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png"> 1.SALIHA BATHOOL.A.
-
-<img width="25" height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png"> 2.TATA SAI NANDINI
-
-<img width="25" height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png"> 3.VARSHINI.S.
-
-<img width="25" height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png"> 4.DHARSHINI.M.R.
+1.SALIHA BATHOOL.A.
+<br /> 
+2.TATA SAI NANDINI
+<br /> 
+3.VARSHINI.S.
+<br /> 
+4.DHARSHINI.M.R.
 
 
 
